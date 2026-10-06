@@ -1,0 +1,7 @@
+[server]
+# 起動時のメールアドレス入力をスキップする（ブラウザは start.command で開く）
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
